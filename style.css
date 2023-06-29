@@ -39,7 +39,7 @@
 }
 
 .logo {
-    background-image: url("Images/amazonlogo.jpeg");
+    background-image: url("amazonlogo.jpeg");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -174,7 +174,7 @@
 
 /* hero section */
 .hero-section {
-    background-image: url("Images/Amazon_GRD_DesktopHero_Template_3000x1200-STEAM._CB602034387_.jpg");
+    background-image: url("Amazon_GRD_DesktopHero_Template_3000x1200-STEAM._CB602034387_.jpg");
     height: 300px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -307,7 +307,7 @@ ul {
 }
 
 .logo {
-    background-image: url("Images/amazonlogo.jpeg");
+    background-image: url("amazonlogo.jpeg");
     background-size: cover;
     height: 50px;
     width: 100px;
